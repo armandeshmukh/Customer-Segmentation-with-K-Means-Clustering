@@ -6,9 +6,9 @@ This project employs K-means clustering to group retail store customers based on
 The primary objective is to identify distinct customer segments for targeted marketing strategies. The K-means clustering algorithm is applied to categorize customers with similar purchasing patterns.
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/your-username/customer-segmentation.git`
-2. Navigate to the project directory: `cd customer-segmentation`
-3. Install dependencies: `pip install pandas scikit-learn matplotlib`
+- Clone the repository: `git clone https://github.com/your-username/customer-segmentation.git`
+- Navigate to the project directory: `cd customer-segmentation`
+- Install dependencies: `pip install pandas scikit-learn matplotlib`
 
 ## Usage
 - Open and run the Jupyter Notebook (`customer_segmentation.ipynb`) to execute the K-means clustering algorithm.
