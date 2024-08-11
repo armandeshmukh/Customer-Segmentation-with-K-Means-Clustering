@@ -2,14 +2,6 @@
 
 This project employs K-means clustering to group retail store customers based on their purchase history. The dataset ('City_Centre_Mall_Customers.csv') includes essential customer information, such as age, gender, income, and spending score.
 
-## Table of Contents
-- [Overview](#overview)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
-
 ## Overview
 The primary objective is to identify distinct customer segments for targeted marketing strategies. The K-means clustering algorithm is applied to categorize customers with similar purchasing patterns.
 
